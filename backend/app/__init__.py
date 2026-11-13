@@ -1,0 +1,1 @@
+"""InsightHub FastAPI Application Package"""
